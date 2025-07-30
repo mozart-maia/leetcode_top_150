@@ -1,0 +1,21 @@
+10
+6.79
+Abil Cupuacu Coco
+8.88
+Banana Laranja Tangerina Uva
+0.98
+Pera Manga Limao
+3.45
+Abacate Abacaba Babaco Bacuri
+6.54
+Amora Abobora Abacaxi Buriti
+7.89
+Caqui Caja Calabaca Cacau Cereja Caimito Conde Figo
+15.68
+Graviola Inga Jambo Jamelao Jaca
+20.00
+Kiwi
+19.89
+Maca Mana Mermelo Marolo Marula Morango Murici Melancia
+1.0
+Noni
